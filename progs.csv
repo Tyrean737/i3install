@@ -64,3 +64,4 @@ A,vim-pathogen,manages vim plugins
 ,atool,manages and gives information about archives
 ,fzf,is a fuzzy finder tool
 ,highlight,can highlight code output
+,numlockx,is used to enable Numlock on bootup.
