@@ -67,3 +67,4 @@ A,vim-pathogen,manages vim plugins
 ,numlockx,is used to enable numlock on bootup.
 ,reflector,is used to rank servers for the pacman mirrorlist.
 ,ttf-liberation,is a nice font package.
+,hunspell-de,is for German spell checking.
