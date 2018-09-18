@@ -66,3 +66,4 @@ A,vim-pathogen,manages vim plugins
 ,highlight,can highlight code output
 ,numlockx,is used to enable numlock on bootup.
 ,reflector,is used to rank servers for the pacman mirrorlist.
+,ttf-liberation,is a nice font package.
