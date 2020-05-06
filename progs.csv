@@ -18,7 +18,8 @@ G,https://github.com/Tyrean737/dmenu.git,runs commands and provides a UI for sel
 ,exfat-utils,allows management of FAT drives
 ,feh,is a minimal image viewer
 ,ffmpeg,can record and splice video and audio on the command line
-,firefox,is the only program on LARBS your girlfriend has ever heard of
+,firefox,is a neet browser
+A,icecat-bin,is the free gnu version of firefox
 ,gnome-keyring,serves as the system keyring
 ,gnome-themes-extra,gives the dark GTK theme used in LARBS
 ,gvim,provides a build of vim with the ability to copy and paste between other programs
