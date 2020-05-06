@@ -11,7 +11,7 @@ G,https://github.com/Tyrean737/dmenu.git,runs commands and provides a UI for sel
 ,ranger,is an extensive terminal file manager that everyone likes
 ,arandr,is a UI for screen adjustment
 ,calcurse,is a lightweight terminal-based calendar
-,compton,for transparency and removing screen-tearing
+,picom,for transparency and removing screen-tearing
 ,cronie,manages scheduled tasks
 ,dosfstools,allows your computer to access dos-like filesystems
 ,dunst,is a suckless notification system
