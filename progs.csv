@@ -71,3 +71,4 @@ A,vim-pathogen,manages vim plugins
 ,noto-fonts-cjk,"has chinese, japanese and korean characters."
 ,noto-fonts-emoji,includes common emojis.
 ,noto-fonts-extra,has some extra characters.
+A,simple-mtpfs,is a tool to automatically mount android phones.
