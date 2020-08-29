@@ -72,3 +72,4 @@ A,vim-pathogen,manages vim plugins
 ,noto-fonts-emoji,includes common emojis.
 ,noto-fonts-extra,has some extra characters.
 A,simple-mtpfs,is a tool to automatically mount android phones.
+A,ttf-symbola,gives emoji support to st.
