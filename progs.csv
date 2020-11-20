@@ -67,6 +67,7 @@ A,vim-pathogen,manages vim plugins
 ,reflector,is used to rank servers for the pacman mirrorlist.
 ,ttf-liberation,is a nice font package.
 ,hunspell-de,is for German spell checking.
+,vim-spell-de,is for German spell checking in vim.
 ,noto-fonts,is the used font set.
 ,noto-fonts-cjk,"has chinese, japanese and korean characters."
 ,noto-fonts-emoji,includes common emojis.
