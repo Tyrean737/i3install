@@ -74,3 +74,4 @@ A,vim-pathogen,manages vim plugins
 A,simple-mtpfs,is a tool to automatically mount android phones.
 A,ttf-symbola,gives emoji support to st.
 ,ncdu,is ia disk usage analyzer with an ncurses interface.
+,croc,sends things from one computer to another easily and securely.
