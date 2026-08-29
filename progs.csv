@@ -75,3 +75,5 @@ A,simple-mtpfs,is a tool to automatically mount android phones.
 A,ttf-symbola,gives emoji support to st.
 ,ncdu,is ia disk usage analyzer with an ncurses interface.
 ,croc,sends things from one computer to another easily and securely.
+A,i3-resurrect,allows to save and restore i3 workspaces.
+,jq,"is a command line JSON, required by i3-ressurect."
