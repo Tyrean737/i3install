@@ -98,6 +98,7 @@ installationloop() { \
 	n=$((n+1))
 	case "$tag" in
 	"") maininstall "$program" "$comment" ;;
+	"M") manualinstall "$program" "$comment" ;;
 	"A") aurinstall "$program" "$comment" ;;
 	"G") gitmakeinstall "$program" "$comment" ;;
 	esac
@@ -178,8 +179,6 @@ refreshkeys
 # Allow user to run sudo without password. Since AUR programs must be installed
 # in a fakeroot environment, this is required for all builds with AUR.
 newperms "%wheel ALL=(ALL) NOPASSWD: ALL"
-
-manualinstall $aurhelper
 
 # The command that does all the installing. Reads the progs.csv file and
 # installs each needed program the way required. Be sure to run this only after
